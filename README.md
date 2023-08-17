@@ -1,4 +1,4 @@
-# OASIS..portfolio
+# portfolio...
 <!-- home -->
 <section class="home" id="home">
     <div class="max-width">
